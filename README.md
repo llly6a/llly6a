@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Mikhail Z. (@llly6a)
-- 🌱 I’m currently learning React
+- 👋 Hi, I’m Mikhail Z.
 
 <!---
 llly6a/llly6a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
